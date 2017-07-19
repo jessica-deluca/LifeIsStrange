@@ -9,3 +9,17 @@ div.page-header {
     padding-top:3px;
     margin-bottom:0px;
 }
+
+/*NAVBAR STYLING*/
+nav#navvy.navbar.navbar-static-top {
+    margin-bottom:0px;
+    background-color:#6a1525;
+}
+
+#navvy a {
+    color:#fff6f0;
+}
+
+#navvy a:hover {
+    background:none;
+}
