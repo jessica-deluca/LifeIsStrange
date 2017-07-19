@@ -1,2 +1,11 @@
-﻿body {
+﻿/*HEADER STYLING*/
+
+#logoIMG {
+    width:200px;
+}
+div.page-header {
+    margin-top:0px;
+    background-color:#e8d6cf;
+    padding-top:3px;
+    margin-bottom:0px;
 }
