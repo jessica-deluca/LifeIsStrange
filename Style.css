@@ -42,3 +42,11 @@ h1.container#trailer {
 .previewThem {
     margin:auto;
 }
+
+/*BUTTON*/
+button.navbar-toggle {
+    border:1px solid #fff6f0;
+}
+span.icon-bar {
+    border:1px solid #fff6f0;
+}
