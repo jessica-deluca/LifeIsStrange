@@ -23,3 +23,11 @@ nav#navvy.navbar.navbar-static-top {
 #navvy a:hover {
     background:none;
 }
+
+/*BUTTON*/
+button.navbar-toggle {
+    border:1px solid #fff6f0;
+}
+span.icon-bar {
+    border:1px solid #fff6f0;
+}
